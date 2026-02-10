@@ -2,4 +2,6 @@
 
 Current scripts:
 
-- UESP [Archived / Original Got Deleted]
+- UESP [Archived Version]
+- slap battle [OG]
+- Infinite Yield [Upgraded]
