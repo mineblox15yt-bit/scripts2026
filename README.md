@@ -1,4 +1,4 @@
-# Scripts Vault 2026
+# Scripts Vault
 
 Current scripts:
 
