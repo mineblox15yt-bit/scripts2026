@@ -21,3 +21,9 @@ Current scripts:
 4. Place the script into your executor
 5. click the execute button or run.
 6. ENJOY!
+
+# My Recommend Executors
+- Xeno [https://xeno.now/] <-- PC ONLY!
+- Solara [https://wearedevs.net/d/Solara] <-- PC ONLY!
+- Delta [https://wearedevs.net/d/Delta] <-- ANDROID ONLY!
+- Pluto [https://wearedevs.net/d/Pluto] <-- PC + Android! (LOADSTRING)
