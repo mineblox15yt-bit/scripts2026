@@ -35,4 +35,6 @@ Current scripts:
 
 # My Fav Executor
 --> Xeno <--
-<img width="256" height="256" alt="XenoIcon" src="https://github.com/user-attachments/assets/cf465299-3428-439a-9030-a8a50f942176" />
+
+
+<img width="250" height="250" alt="XenoIcon" src="https://github.com/user-attachments/assets/cf465299-3428-439a-9030-a8a50f942176" />
